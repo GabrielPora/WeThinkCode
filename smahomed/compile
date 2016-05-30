@@ -1,0 +1,1 @@
+gcc main.c get_next_line.c get_next_line.h libft.h libft.a ft_fdf.h ft_fdf.c -lmlx -framework OpenGL -framework AppKit
